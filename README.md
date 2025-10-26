@@ -1,4 +1,5 @@
 Health Insurance Management System | Official Repository 🌟
+
 Welcome to the development repository for the Health Insurance Management System — a simple, human-centered PHP/MySQL portal that makes insurance tasks less painful and more transparent. This project is designed to help policyholders register, choose packages, submit claims, make payments, and raise complaints — while providing administrators an approachable dashboard for managing users, claims, and communications. 💼❤️
 
 Why this project? 💡
