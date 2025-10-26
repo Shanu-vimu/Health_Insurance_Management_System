@@ -14,13 +14,13 @@ Key features ✨
 🗃️ Database schema and sample SQL in registration_db.sql
 🧩 Reusable layout components in header.php and footer.php
 Project structure (high level)
-├── php — shared partials (header.php, footer.php)
-├── css — styles for pages (homepage.css, claim.css, etc.)
-├── js — small client scripts (passwordshow.js, contactus.js)
-├── Database — SQL schema and table exports (registration_db.sql, per-table SQLs)
-├── img, logo — media assets
-├── root-level PHP pages — user/admin flows (registration.php, login.php, claim_form.php, admindashboard.php, ...)
-├── con_db.php — central MySQL connection file (update DB credentials here)
+ php — shared partials (header.php, footer.php)
+ css — styles for pages (homepage.css, claim.css, etc.)
+ js — small client scripts (passwordshow.js, contactus.js)
+ Database — SQL schema and table exports (registration_db.sql, per-table SQLs)
+ img, logo — media assets
+ root-level PHP pages — user/admin flows (registration.php, login.php, claim_form.php, admindashboard.php, ...)
+ con_db.php — central MySQL connection file (update DB credentials here)
 
 Technology stack 🧭
 
