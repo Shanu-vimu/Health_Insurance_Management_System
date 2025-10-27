@@ -40,11 +40,3 @@ Prerequisites
 XAMPP, WAMP, or Laragon (PHP + MySQL)
 Web browser (Chrome, Edge, Firefox)
 Quick install and run
-
-Start Apache and MySQL (use XAMPP Control Panel or equivalent).
-Import the database:
-Using phpMyAdmin: open http://localhost/phpmyadmin → create a database (e.g., insurance_db) → Import → choose registration_db.sql and run.
-Or using the MySQL client in PowerShell:
-Update database credentials in con_db.php to match your local MySQL user, password, and database name.
-Place the project folder in your webserver doc root (e.g., C:\xampp\htdocs\Health_Insurance_Management_System-main) and open http://localhost/Health_Insurance_Management_System-main/ in your browser.
-Use the admin pages (if an admin account exists in the DB) to review claims, contacts, and complaints.
